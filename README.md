@@ -11,7 +11,7 @@ Benvenuti nel mio profilo GitHub. Sono **Mario Rossi**, uno sviluppatore softwar
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus29&show_icons=true)
 
 ## 🔗 Contatti
-- [LinkedIn](https://www.linkedin.com/in/giovanni-pio-lancellotta/)
+- [LinkedIn](https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/)
 
 
 <!--
