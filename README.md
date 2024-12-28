@@ -9,7 +9,7 @@ with a passion for coding and gaming.😄
 - Git/GitHub
 
 ## 📈 Statistics GitHub
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus29&show_icons=true)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus29&show_icons=true&theme=dark)
 
 ## 🔗 Contacts
 - [LinkedIn](https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/)
