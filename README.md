@@ -1,3 +1,5 @@
+![Immagine del profilo](https://url_dell_immagine.com)
+
 # Hello! 👋
 
 Welcome to my GitHub profile. I'm a student
