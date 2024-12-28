@@ -1,16 +1,17 @@
-# Ciao! 👋
+# Hello! 👋
 
-Benvenuti nel mio profilo GitHub. Sono **Mario Rossi**, uno sviluppatore software con una passione per il **coding** e l'**open-source**. 😄
+Welcome to my GitHub profile. I'm a student
+with a passion for coding and gaming.😄
 
-## 💻 Competenze
+## 💻 Skills
 - C
 - Shell
 - Git/GitHub
 
-## 📈 Statistiche GitHub
+## 📈 Statistics GitHub
 ![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus29&show_icons=true)
 
-## 🔗 Contatti
+## 🔗 Contacts
 - [LinkedIn](https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/)
 
 
