@@ -1,4 +1,18 @@
-## Hi there 👋
+# Ciao! 👋
+
+Benvenuti nel mio profilo GitHub. Sono **Mario Rossi**, uno sviluppatore software con una passione per il **coding** e l'**open-source**. 😄
+
+## 💻 Competenze
+- C
+- Shell
+- Git/GitHub
+
+## 📈 Statistiche GitHub
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nexus29&show_icons=true)
+
+## 🔗 Contatti
+- [LinkedIn](https://www.linkedin.com/in/giovanni-pio-lancellotta/)
+
 
 <!--
 **Nexus29/Nexus29** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
