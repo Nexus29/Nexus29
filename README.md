@@ -1,4 +1,4 @@
-![Immagine del profilo](https://url_dell_immagine.com)
+![Immagine del profilo](https://github.com/Nexus29/Nexus29/blob/main/Banner.gif)
 
 # Hello! 👋
 
