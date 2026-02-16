@@ -44,7 +44,7 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/">
-    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LINKEDIN_PROFILE-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41" alt="LinkedIn" />
   </a>
   <a href="https://github.com/Nexus29">
     <img src="https://img.shields.io/badge/GITHUB_SOURCE-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41" alt="GitHub" />
