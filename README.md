@@ -14,9 +14,7 @@
 
 ---
 
-🟢 [NEURAL_CORE_DUMP]
-
-    ACCESSING BIOMETRICS... Full Stack Architect specialized in low-level systems (C/C++) and containerized environments. I bridge the gap between the hardware and the web.
+> **ACCESSING BIOMETRICS...** Full Stack Architect specialized in low-level systems (C/C++) and containerized environments. I bridge the gap between the hardware and the web.
 
 📟 [THE_MATRIX] :: Frontend
 
