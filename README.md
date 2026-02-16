@@ -40,27 +40,25 @@
 
 ---
 
-🟢 [ESTABLISH_UPLINK]
-
+### 🔌 [ESTABLISH_UPLINK]
 <p align="left">
-<a href="https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/">
-<img src="https://img.shields.io/badge/LINKEDIN-00FF41?style=for-the-badge&logo=linkedin&logoColor=000000&labelColor=00FF41&color=000000" />
-</a>
+  <a href="https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41" alt="LinkedIn" />
+  </a>
+  <a href="mailto:giovanni.pio.lancellotta@gmail.com">
+    <img src="https://img.shields.io/badge/DIRECT_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Email" />
+  </a>
 </p>
 
+---
+
 <p align="right">
-<code>[NEXUS_OS_TERMINAL]</code>
-
-
-<code>DATE: 16_FEB_2026</code>
-
-
-<code>LOC: 0xDEADBEEF</code>
-
-
-<code><font color="#00FF41">STATUS: ENCRYPTED_CONNECTION</font></code>
+  <code>[NEXUS_OS_TERMINAL]</code><br>
+  <code>DATE: 16_FEB_2026</code><br>
+  <code>LOC: 0xDEADBEEF</code><br>
+  <code>STATUS: <font color="#00ff408b">LISTENING_FOR_INPUT...</font></code>
 </p>
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0eb334&height=60&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=60&section=footer" width="100%"/>
 </p>
