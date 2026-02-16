@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-NEXUS_v2.026-00FF41?style=for-the-badge&labelColor=00FF41&logoColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/OS-NEXUS_v6.026-00FF41?style=for-the-badge&labelColor=00FF41&logoColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-00FF41?style=for-the-badge&labelColor=00FF41&logoColor=000000&color=000000" />
   <img src="https://img.shields.io/badge/UPLINK-STABLE-00FF41?style=for-the-badge&labelColor=00FF41&logoColor=000000&color=000000" />
 </p>
