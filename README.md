@@ -41,29 +41,24 @@
 ---
 
 ### 🔌 [ESTABLISH_UPLINK]
-
 <p align="left">
-<a href="https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D00FF41%26labelColor%3D000000%26color%3D00FF41" />
-</a>
+  <a href="https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41" alt="LinkedIn" />
+  </a>
+  <a href="mailto:your-email@example.com">
+    <img src="https://img.shields.io/badge/DIRECT_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Email" />
+  </a>
 </p>
 
 ---
 
 <p align="right">
-<code>[NEXUS_OS_TERMINAL]</code>
-
-
-
-
-<code>DATE: 16_FEB_2026</code>
-
-
-
-
-<code>LOC: 0xDEADBEEF</code>
+  <code>[NEXUS_OS_TERMINAL]</code><br>
+  <code>DATE: 16_FEB_2026</code><br>
+  <code>LOC: 0xDEADBEEF</code><br>
+  <code>STATUS: <font color="#00FF41">LISTENING_FOR_INPUT...</font></code>
 </p>
 
 <p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF41%26height%3D60%26section%3Dfooter" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=60&section=footer" width="100%"/>
 </p>
