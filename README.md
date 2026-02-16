@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXUS29+SYSTEM+INITIALIZED;FULL+STACK+DEVELOPER;NULL+POINTER+RECKONER;CONTAINERIZING+REALITY" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXUS29+SYSTEM+INITIALIZED;FULL+STACK+DEVELOPER;CONTAINERIZING+REALITY;FETCHING+DECK_LOGS..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -15,40 +15,36 @@
 ---
 
 ### 💾 Neural Core (System Specs)
-> **I bridge the gap between high-level logic and bare-metal performance.** Whether it's crafting responsive UIs or debugging memory leaks in C++, I build scalable, containerized solutions.
+> **Full Stack Architect** bridging high-level logic (JS/TS/PHP) with bare-metal performance (C/C++).
 
-#### 🌐 Frontend & Logic (The Matrix)
+#### 🌐 The Matrix (Frontend)
 `HTML5` `CSS3` `JavaScript` `TypeScript`
 
-#### ⚙️ Backend & Systems (The Engine)
-`PHP` `Python` `C` `C++`
+#### ⚙️ The Engine (Backend & Systems)
+`PHP` `Python` `C` `C++` `Makefile`
 
-#### 🚢 DevOps & Infrastructure (The Grid)
-`Docker` `Docker-Compose` `Makefile` `Shell` `Git`
+#### 🚢 The Grid (DevOps)
+`Docker` `Docker-Compose` `Shell` `Git`
 
 ---
 
-### 📊 System Diagnostics
+### 📉 System Diagnostics (Real-Time Activity)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nexus29&show_icons=true&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&icon_color=FF007C&text_color=C9D1D9&border_color=00F2FF" alt="Nexus29 Stats" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexus29&theme=tokyonight&area=true&hide_border=true&color=00F2FF" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus29&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&text_color=C9D1D9&hide=jupyter" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus29&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&text_color=C9D1D9&hide_border=true&langs_count=8" />
 </p>
 
 ---
 
 ### 🔌 Establish Uplink
 * 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/)
-* 📂 **Active Repos:** Check out my work in PHP, Shell, and C.
-* 🛠️ **Current Focus:** Optimizing `update_stats.php` logic and Dockerizing local environments.
+* 📂 **Source Control:** Optimized for modularity via `Makefile` and `Docker`.
+* 🛠️ **Current Objective:** Developing robust data handling in `src/update_stats.php`.
 
 ---
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
 
 <p align="right">
   <code>[SYSTEM_LOG]: END_OF_LINE_</code>
