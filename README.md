@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXUS29+SYSTEM+INITIALIZED;FULL+STACK+DEVELOPER;CONTAINERIZING+REALITY;FETCHING+DECK_LOGS..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXUS29+SYSTEM+INITIALIZED;FULL+STACK+DEVELOPER;CONTAINERIZING+REALITY;OVERRIDING+LIMITS..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
@@ -18,34 +18,21 @@
 > **Full Stack Architect** bridging high-level logic (JS/TS/PHP) with bare-metal performance (C/C++).
 
 #### 🌐 The Matrix (Frontend)
-`HTML5` `CSS3` `JavaScript` `TypeScript`
+`HTML5` • `CSS3` • `JavaScript` • `TypeScript`
 
 #### ⚙️ The Engine (Backend & Systems)
-`PHP` `Python` `C` `C++` `Makefile`
+`PHP` • `Python` • `C` • `C++` • `Makefile`
 
 #### 🚢 The Grid (DevOps)
-`Docker` `Docker-Compose` `Shell` `Git`
+`Docker` • `Docker-Compose` • `Shell` • `Git`
 
 ---
 
-### 📉 System Diagnostics (Real-Time Activity)
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nexus29&theme=tokyonight&area=true&hide_border=true&color=00F2FF" width="100%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nexus29&layout=compact&theme=tokyonight&bg_color=0D1117&title_color=00F2FF&text_color=C9D1D9&hide_border=true&langs_count=8" />
-</p>
-
----
-
-### 🔌 Establish Uplink
-* 💼 **Professional Network:** [LinkedIn](https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/)
-* 📂 **Source Control:** Optimized for modularity via `Makefile` and `Docker`.
-* 🛠️ **Current Objective:** Developing robust data handling in `src/update_stats.php`.
-
----
-
-<p align="right">
-  <code>[SYSTEM_LOG]: END_OF_LINE_</code>
-</p>
+### 🛠️ Active Sessions (Current Projects)
+```bash
+# Initializing environment...
+$ docker-compose up -d --build
+# Executing background tasks...
+$ php src/update_stats.php --silent
+# Compiling system modules...
+$ make all && ./nexus_core
