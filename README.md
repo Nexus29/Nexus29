@@ -3,36 +3,67 @@
 </p>
 
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=00F2FF&center=true&vCenter=true&width=500&lines=NEXUS29+SYSTEM+INITIALIZED;FULL+STACK+DEVELOPER;CONTAINERIZING+REALITY;OVERRIDING+LIMITS..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Courier+New&size=30&pause=1000&color=00FF41&center=true&vCenter=true&width=500&lines=>>+SYSTEM+INITIALIZED;>>+NEXUS29+ONLINE;>>+DECODING+REALITY...;>>+CONTAINERIZING+CORE..." alt="Typing SVG" />
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00FF41?style=flat-square&logo=target" />
-  <img src="https://img.shields.io/badge/ACCESS-LEVEL_ADMIN-FF007C?style=flat-square" />
-  <img src="https://img.shields.io/badge/LOCATION-CYBERSPACE-7000FF?style=flat-square" />
+  <img src="https://img.shields.io/badge/OS-NEXUS_v2.026-000000?style=for-the-badge&labelColor=00FF41&logoColor=000000" />
+  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-000000?style=for-the-badge&labelColor=00FF41&logoColor=000000" />
+  <img src="https://img.shields.io/badge/UPLINK-STABLE-000000?style=for-the-badge&labelColor=00FF41&logoColor=000000" />
 </p>
 
 ---
 
-### 💾 Neural Core (System Specs)
-> **Full Stack Architect** bridging high-level logic (JS/TS/PHP) with bare-metal performance (C/C++).
+### 🟢 [NEURAL_CORE_DUMP]
+> **ACCESSING BIOMETRICS...** Full Stack Architect specialized in low-level systems (C/C++) and containerized environments. I bridge the gap between the hardware and the web.
 
-#### 🌐 The Matrix (Frontend)
+#### 📟 [THE_MATRIX] :: Frontend
 `HTML5` • `CSS3` • `JavaScript` • `TypeScript`
 
-#### ⚙️ The Engine (Backend & Systems)
+#### ⚙️ [THE_ENGINE] :: Backend & Systems
 `PHP` • `Python` • `C` • `C++` • `Makefile`
 
-#### 🚢 The Grid (DevOps)
+#### 🚢 [THE_GRID] :: Infrastructure
 `Docker` • `Docker-Compose` • `Shell` • `Git`
 
 ---
 
-### 🛠️ Active Sessions (Current Projects)
-```bash
-# Initializing environment...
-$ docker-compose up -d --build
-# Executing background tasks...
-$ php src/update_stats.php --silent
-# Compiling system modules...
-$ make all && ./nexus_core
+### 🛠️ [TERMINAL_SESSION]
+```diff
++ [BOOT] Initializing Docker containers...
++ [OK]   docker-compose.yml loaded successfully.
+! [EXEC] Running src/update_stats.php...
+! [EXEC] make all --directory=./sys_core
++ [DONE] System operational. No memory leaks detected.
+
+```
+
+---
+
+### 🔌 [ESTABLISH_UPLINK]
+
+<p align="left">
+<a href="https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/">
+<img src="https://www.google.com/search?q=https://img.shields.io/badge/LINKEDIN-000000%3Fstyle%3Dfor-the-badge%26logo%3Dlinkedin%26logoColor%3D00FF41%26labelColor%3D000000%26color%3D00FF41" />
+</a>
+</p>
+
+---
+
+<p align="right">
+<code>[NEXUS_OS_TERMINAL]</code>
+
+
+
+
+<code>DATE: 16_FEB_2026</code>
+
+
+
+
+<code>LOC: 0xDEADBEEF</code>
+</p>
+
+<p align="center">
+<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/api%3Ftype%3Dwaving%26color%3D00FF41%26height%3D60%26section%3Dfooter" width="100%"/>
+</p>
