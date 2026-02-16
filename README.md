@@ -20,10 +20,10 @@
 
 📟 [THE_MATRIX] :: Frontend
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" /> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" /> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" /> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" /> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" /><br>
 ⚙️ [THE_ENGINE] :: Backend & Systems
 
-<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41" /> <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MAKEFILE-000000?style=for-the-badge&logo=gnu-make&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/PHP-000000?style=for-the-badge&logo=php&logoColor=00FF41" /> <img src="https://img.shields.io/badge/PYTHON-000000?style=for-the-badge&logo=python&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF41" /> <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=00FF41" /> <img src="https://img.shields.io/badge/MAKEFILE-000000?style=for-the-badge&logo=gnu-make&logoColor=00FF41" /><br>
 🚢 [THE_GRID] :: Infrastructure
 
 <img src="https://img.shields.io/badge/DOCKER-000000?style=for-the-badge&logo=docker&logoColor=00FF41" /> <img src="https://img.shields.io/badge/COMPOSE-000000?style=for-the-badge&logo=docker&logoColor=00FF41" /> <img src="https://img.shields.io/badge/SHELL-000000?style=for-the-badge&logo=gnu-bash&logoColor=00FF41" /> <img src="https://img.shields.io/badge/GIT-000000?style=for-the-badge&logo=git&logoColor=00FF41" />
