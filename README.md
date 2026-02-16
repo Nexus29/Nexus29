@@ -7,9 +7,9 @@
 </h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/OS-NEXUS_v2.026-00FF41?style=for-the-badge&labelColor=000000&logoColor=000000" />
-  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-00FF41?style=for-the-badge&labelColor=000000&logoColor=000000" />
-  <img src="https://img.shields.io/badge/UPLINK-STABLE-00FF41?style=for-the-badge&labelColor=000000&logoColor=000000" />
+  <img src="https://img.shields.io/badge/OS-NEXUS_v2.026-00FF41?style=for-the-badge&labelColor=00FF41&logoColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-00FF41?style=for-the-badge&labelColor=00FF41&logoColor=000000&color=000000" />
+  <img src="https://img.shields.io/badge/UPLINK-STABLE-00FF41?style=for-the-badge&labelColor=00FF41&logoColor=000000&color=000000" />
 </p>
 
 ---
@@ -43,15 +43,15 @@
 ### 🔌 [ESTABLISH_UPLINK]
 
 <p align="left">
-<a href="https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/">
-<img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41" alt="LinkedIn" />
-</a>
-<a href="https://www.google.com/search?q=https://github.com/Nexus29">
-<img src="https://www.google.com/search?q=https://img.shields.io/badge/GITHUB_SOURCE-000000%3Fstyle%3Dfor-the-badge%26logo%3Dgithub%26logoColor%3D00FF41%26labelColor%3D000000%26color%3D00FF41" alt="GitHub" />
-</a>
-<a href="mailto:giovanni.pio.lancellotta@gmail.com">
-<img src="https://img.shields.io/badge/DIRECT_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Email" />
-</a>
+  <a href="https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Nexus29">
+    <img src="https://img.shields.io/badge/GITHUB_SOURCE-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41" alt="GitHub" />
+  </a>
+  <a href="mailto:giovanni.pio.lancellotta@gmail.com">
+    <img src="https://img.shields.io/badge/DIRECT_MAIL-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Email" />
+  </a>
 </p>
 
 > **[PORTAL_NOTICE]**: `nexus29.dev` — [ **COMING SOON** ] :: Deployment in progress...
