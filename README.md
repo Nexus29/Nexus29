@@ -73,9 +73,6 @@
 <p align="center">
 <img src="httpsIntegrating these new tech stacks into your "Matrix/Terminal" aesthetic is a great move. I've added **.NET**, **C#**, and **Bash** to your backend/systems section, and created a dedicated **[ENVIRONMENT]** section for your Linux distributions and **Hyprland** setup.
 
-Here is the updated Markdown for your README:
-
-```markdown
 <p align="center">
   <img src="[https://github.com/Nexus29/Nexus29/blob/main/Banner.gif](https://github.com/Nexus29/Nexus29/blob/main/Banner.gif)" width="100%">
 </p>
@@ -151,8 +148,6 @@ Here is the updated Markdown for your README:
 <p align="center">
 <img src="[https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=60&section=footer](https://capsule-render.vercel.app/api?type=waving&color=00FF41&height=60&section=footer)" width="Integrating these new tech stacks into your "Matrix/Terminal" aesthetic is a great move. I've added **.NET**, **C#**, and **Bash** to your backend/systems section, and created a dedicated **[ENVIRONMENT]** section for your Linux distributions and **Hyprland** setup.
 
-Here is the updated Markdown for your README:
-```markdown
 <p align="center">
   <img src="https://github.com/Nexus29/Nexus29/blob/main/Banner.gif" width="100%">
 </p>
