@@ -41,7 +41,22 @@
 ! [EXEC] dotfiles --sync --distro=arch
 ! [EXEC] dotnet build ./NexusCore.csproj
 + [DONE] System operational. No memory leaks detected.[cite: 1]
+```
 
-🔌 [ESTABLISH_UPLINK]
+---
 
-    [PORTAL_NOTICE]: nexus29.dev — [ COMING SOON ] :: Deployment in progress...[cite: 1]
+### 🔌 [ESTABLISH_UPLINK]
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/giovanni-pio-lancellotta-3b604229b/">
+    <img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=00FF41&labelColor=000000&color=00FF41" alt="LinkedIn" />
+  </a>
+  <a href="https://github.com/Nexus29">
+    <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=00FF41&labelColor=000000&color=00FF41" alt="GitHub" />
+  </a>
+  <a href="mailto:giovanni.pio.lancellotta@gmail.com">
+    <img src="https://img.shields.io/badge/EMAIL_DIRECT-000000?style=for-the-badge&logo=gmail&logoColor=00FF41&labelColor=000000&color=00FF41" alt="Email" />
+  </a>
+</p>
+
+### [PORTAL_NOTICE]: nexus29.dev — [ COMING SOON ] :: Deployment in progress...[cite: 1]
