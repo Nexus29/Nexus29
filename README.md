@@ -18,7 +18,7 @@
 
 📟 [THE_MATRIX] :: Frontend
 
-<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" /> <img src="https://img.shields.io/badge/CSS3-000000?style=for-the-badge&logo=css3&logoColor=00FF41" /> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" /><br>
+<img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=html5&logoColor=00FF41" /> <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css&logoColor=00FF41" /> <img src="https://img.shields.io/badge/JAVASCRIPT-000000?style=for-the-badge&logo=javascript&logoColor=00FF41" /> <img src="https://img.shields.io/badge/TYPESCRIPT-000000?style=for-the-badge&logo=typescript&logoColor=00FF41" /><br>
 
 ⚙️ [THE_ENGINE] :: Backend & Systems
 
